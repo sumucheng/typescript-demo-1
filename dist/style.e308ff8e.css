@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#demo {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border: 1px solid red;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
